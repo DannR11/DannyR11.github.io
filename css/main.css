@@ -1708,7 +1708,7 @@ input::-moz-focus-inner {
   width: 100%;
   height: 100%;
   vertical-align: middle;
-  padding-bottom: 15.6rem;
+  padding-bottom: 4rem;
   overflow: hidden;
   position: relative;
 }
@@ -2214,8 +2214,8 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
 .s-about {
-  padding-top: 18rem;
-  padding-bottom: 18rem;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
   background-color: #ffffff;
   position: relative;
 }
@@ -2283,8 +2283,8 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 @media only screen and (max-width: 1200px) {
   .s-about {
-    padding-top: 15rem;
-    padding-bottom: 15rem;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
   }
 
   .process__vline-left {
@@ -2310,8 +2310,8 @@ html.no-csstransitions .home-content__main {
 }
 @media only screen and (max-width: 800px) {
   .s-about {
-    padding-top: 12rem;
-    padding-bottom: 12rem;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
   }
 
   .process {
@@ -2375,8 +2375,8 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
 .s-services {
-  padding-top: 18rem;
-  padding-bottom: 18rem;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
   color: #555555;
   position: relative;
 }
@@ -2407,8 +2407,8 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 @media only screen and (max-width: 1200px) {
   .s-services {
-    padding-top: 15rem;
-    padding-bottom: 15rem;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
   }
 
   .services-list [class*="col-"]:nth-child(2n + 1) {
@@ -2420,8 +2420,8 @@ html.no-csstransitions .home-content__main {
 }
 @media only screen and (max-width: 800px) {
   .s-services {
-    padding-top: 12rem;
-    padding-bottom: 12rem;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
   }
 
   .services-list {
@@ -2961,8 +2961,8 @@ html.no-csstransitions .home-content__main {
 }
 @media only screen and (max-width: 400px) {
   .s-stats {
-    padding-top: 4.5rem;
-    padding-bottom: 4.5rem;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
   }
 
   .stats__count {
@@ -2977,8 +2977,8 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
 .s-contact {
-  padding-top: 21rem;
-  padding-bottom: 10.2rem;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
   background-color: #111111;
   color: rgba(255, 255, 255, 0.3);
   position: relative;
@@ -2994,7 +2994,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .contact-main {
-  margin-top: 14.4rem;
+  margin-top: 4.4rem;
   margin-bottom: 4.8rem;
 }
 
@@ -3271,8 +3271,8 @@ html.no-csstransitions .home-content__main {
 }
 @media only screen and (max-width: 800px) {
   .s-contact {
-    padding-top: 12rem;
-    padding-bottom: 9rem;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
   }
 
   .contact-secondary,
@@ -3315,11 +3315,11 @@ html.no-csstransitions .home-content__main {
 }
 @media only screen and (max-width: 600px) {
   .s-contact {
-    padding-bottom: 6rem;
+    padding-bottom: 4rem;
   }
 
   .contact-main {
-    margin-top: 12rem;
+    margin-top: 4rem;
   }
 
   .contact-email {
@@ -3367,8 +3367,8 @@ html.no-csstransitions .home-content__main {
 }
 @media only screen and (max-width: 400px) {
   .s-contact {
-    padding-top: 9.6rem;
-    padding-bottom: 3rem;
+    padding-top: 4.6rem;
+    padding-bottom: 1rem;
   }
 
   .contact-main {

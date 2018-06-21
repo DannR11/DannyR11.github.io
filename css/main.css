@@ -3053,7 +3053,7 @@ html.no-csstransitions .home-content__main {
 }
 .contact-social li a:hover,
 .contact-social li a:focus {
-  color: #ffffff;
+  color: black;
 }
 .contact-social li:last-child {
   margin: 0;
